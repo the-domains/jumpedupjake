@@ -1,0 +1,14 @@
+layout_spectrum: 0.4426523
+typography_spectrum: 0.3253672
+color:
+  saturation: 0.2100733
+  lightness: 0.4022512
+  brandStrength: 0.1654999
+  brandColors:
+    - '#0D0C0E'
+    - '#BDC7D7'
+    - '#01A3EA'
+    - '#C6FF38'
+    - '#F22027'
+  rhythmicContrast: 0.8275543
+name: JumpedupJake
