@@ -1,14 +1,26 @@
-layout_spectrum: 0.4426523
-typography_spectrum: 0.3253672
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.2100733
-  lightness: 0.4022512
   brandStrength: 0.1654999
+  lightness: 0.5591398
   brandColors:
-    - '#0D0C0E'
-    - '#BDC7D7'
-    - '#01A3EA'
-    - '#C6FF38'
-    - '#F22027'
+    - '#211D20'
+    - '#BEC4D0'
+    - '#916742'
+    - '#DEAC16'
+    - '#FF422F'
   rhythmicContrast: 0.8275543
+typography_spectrum: 0.08960573
+layout_spectrum: 0
 name: JumpedupJake
